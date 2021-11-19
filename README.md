@@ -16,4 +16,4 @@ First of all - I will explore the existing code and after that, I will follow th
 
 
 # Recommendations about the UX/ UI.
-UI / UX recommendations. The website looks good, but it looks like an old-fashioned website. There is no modern look. Also to the slider: I think will be a good idea to use some indicators, which tell to us how many slides we will see.
+UI / UX recommendations. The website looks good, but it looks like an old-fashioned website. There is no modern look. Also to the slider: I think will be a good idea to use some indicators, which tell to us how many slides we will see. As a recommendation about the social media buttons/links: I think it will be a good idea, if we add some contrast to the hover state of the icons. 
